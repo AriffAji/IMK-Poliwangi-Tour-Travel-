@@ -1,0 +1,46 @@
+.fontnav {
+    font-family: 'Bebas Neue', cursive;
+    
+}
+.jumbotron{
+    padding-top: 2rem ;
+    background-color: #f5d355;
+}
+.gel {
+    padding-bottom: -10rx;
+}
+.foto{
+    width: 200px;
+    border-radius:50% ;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0,0)  !important
+}
+.halo {
+    margin-top: -10px;
+}
+.About{
+    margin-top: -25px;
+    margin-left: -10px;
+    
+}
+.cont {
+    color: white;
+    
+}
+.School{
+    background-color: #f5d355;
+      
+}
+
+.foot {
+    background-color: #ebeae8;
+}
+.kotak {
+    background-color: white !important
+}
+.images {
+    width: 3.5cm;
+    height: 4cm;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1rem;
+}
